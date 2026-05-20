@@ -16,7 +16,7 @@ Before installing Proxmox, AMD-V (SVM Mode) virtualization was enabled in the mo
 
 ## Installation
 
-Proxmox VE was flashed to a USB drive using Balena Etcher and installed by booting from the USB.
+Proxmox VE was flashed to a USB drive using Rufus and installed by booting from the USB.
 
 **Key install settings:**
 - Target disk: 500GB WD Black NVMe (nvme1n1)
