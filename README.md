@@ -57,7 +57,7 @@ Remote access to the lab is provided via WireGuard VPN. A DuckDNS hostname (`<dn
 ---
 
 ## Network Layout
-![Network Diagram](diagrams/network-diagram.png)
+![Network Diagram](diagrams/home-lab-network.png)
 
 ---
 
