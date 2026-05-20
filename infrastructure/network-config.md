@@ -68,7 +68,7 @@ Remote access to the lab is provided via WireGuard VPN running on the wireguard-
 | Server VPN IP | 10.0.0.1 |
 | Laptop VPN IP | 10.0.0.2 |
 | Listen Port | 51820 (UDP) |
-| External Hostname | bugbolab.duckdns.org |
+| External Hostname | <dns-hostname>.duckdns.org |
 
 ### Port Forwarding
 Port 51820 UDP is forwarded on the GFiber router to 192.168.1.52 (wireguard-vpn).

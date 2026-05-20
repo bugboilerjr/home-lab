@@ -44,7 +44,7 @@ A personal home lab built on a repurposed gaming PC running Proxmox VE. The goal
 
 ## Remote Access
 
-Remote access to the lab is provided via WireGuard VPN. A DuckDNS hostname (`bugbolab.duckdns.org`) is used to handle dynamic IP changes on the home internet connection. The DuckDNS record is updated every 5 minutes via a cron job on the WireGuard VM.
+Remote access to the lab is provided via WireGuard VPN. A DuckDNS hostname (`<dns-hostname>.duckdns.org`) is used to handle dynamic IP changes on the home internet connection. The DuckDNS record is updated every 5 minutes via a cron job on the WireGuard VM.
 
 ---
 
